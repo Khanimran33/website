@@ -1,1 +1,2 @@
-hi i am ajay
+FROM nginx
+ADD . /usr/share/nginx/html
